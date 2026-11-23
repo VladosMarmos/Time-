@@ -1,0 +1,11 @@
+{
+  "name": "Моё время — счётчик событий",
+  "short_name": "Моё время",
+  "description": "Счётчики времени для важных дат",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
